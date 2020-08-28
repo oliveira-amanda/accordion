@@ -35,8 +35,9 @@
     transform: rotate(90deg);
 }
 
-.according_content {
+.accordion_content {
     background-color: #FFF;
     overflow: hidden;
     transition: max-height 0.6s ease;
+    max-height: 100px;
 }
